@@ -81,3 +81,15 @@ footer {
   text-decoration: none;
   font-weight: 600;
 }
+.coop-info .logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.coop-info .logos img {
+  height: 40px;
+  max-width: 120px;
+}
