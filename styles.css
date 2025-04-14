@@ -1,0 +1,67 @@
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background-color: #EAE1D0;
+  color: #111;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background-color: #A254DC;
+  padding: 1rem;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(90deg, #A254DC, #4F84B8);
+  color: white;
+}
+
+.cta-button {
+  background-color: #E4F460;
+  color: #111;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 4rem 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #A254DC;
+  text-align: center;
+}
+
+.problem {
+  background-color: white;
+  padding: 1rem;
+  border-left: 6px solid #E4F460;
+  margin: 1rem 0;
+}
+
+.dreiklang > div, .bios > div {
+  margin-bottom: 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: #4F84B8;
+  color: white;
+}
