@@ -70,3 +70,14 @@ footer {
   margin: 1rem auto;
   display: block;
 }
+.coop-info {
+  text-align: center;
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.coop-info a {
+  color: #4F84B8;
+  text-decoration: none;
+  font-weight: 600;
+}
